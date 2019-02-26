@@ -1,5 +1,5 @@
 {
-  "name": "<TeamID>FastStartVirtualMachine",
+  "name": "team04FastStartVirtualMachine",
   "description": "Create Virtual Machine lab exercise",
   "type": "prebuilt",
   "version": "1.0",
@@ -20,7 +20,7 @@
     }
   },
   "metadata": {
-      "displayName": "<TeamID>FastStartVirtualMachine",
+      "displayName": "team04FastStartVirtualMachine",
       "longDescription": "Create Virtual Machine with single vnic on a network label by cloning",
       "bullets": [
        {
